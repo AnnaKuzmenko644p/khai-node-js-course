@@ -10,7 +10,7 @@
     "migration:generate": "drizzle-kit generate:pg",
     "migration:push": "drizzle-kit push:pg"
   },
-  "author": "maksym bychok",
+  "author": "anna kuzmenko",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.20.2",
